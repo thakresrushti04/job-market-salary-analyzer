@@ -10,7 +10,7 @@ exploratory analysis and Tableau for interactive visualization.
 - Google Colab
 
 ## Live Dashboard
-[View Interactive Tableau Dashboard]([YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/srushti.thakre4507/viz/Job_Market_Analyzer_/Dashboard1?publish=yes)
+[View Interactive Tableau Dashboard] (https://public.tableau.com/app/profile/srushti.thakre4507/viz/Job_Market_Analyzer_/Dashboard1?publish=yes)
 
 ## Key Insights
 - Machine Learning and AI roles command the highest average salaries 
@@ -35,7 +35,8 @@ exploratory analysis and Tableau for interactive visualization.
 - Top 10 highest-paying job titles
 - Interactive Work Setting filter (Remote/Hybrid/In-person)
 
-![Tableau Dashboard](tableau_dashboard.png)
+![Tableau Dashboard](<img width="1608" height="847" alt="tableau_dashboard png" src="https://github.com/user-attachments/assets/44fc2f1f-8882-41f0-bd08-d572687af688" />
+)
 
 ## Dataset
 Job postings dataset covering data science, ML, and analytics roles 

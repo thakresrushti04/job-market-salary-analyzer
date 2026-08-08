@@ -1,8 +1,6 @@
 # Job Market & Salary Analysis
 
-Data analysis project exploring salary trends across job categories, 
-experience levels, and roles in the data field, using Python for 
-exploratory analysis and Tableau for interactive visualization.
+Data analysis project exploring salary trends across job categories, experience levels, and roles in the data field, using Python for exploratory analysis and Tableau for interactive visualization.
 
 ## Tools Used
 - Python (Pandas, SQLite, Plotly, NetworkX)
@@ -10,34 +8,48 @@ exploratory analysis and Tableau for interactive visualization.
 - Google Colab
 
 ## Live Dashboard
-[View Interactive Tableau Dashboard] (https://public.tableau.com/app/profile/srushti.thakre4507/viz/Job_Market_Analyzer_/Dashboard1?publish=yes)
+🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/srushti.thakre4507/viz/Job_Market_Analyzer_/Dashboard1?publish=yes)
 
 ## Key Insights
-- Machine Learning and AI roles command the highest average salaries 
-  across all job categories
-- Salary shows strong progression by experience level, with Executive 
-  roles earning significantly more than Entry-level
-- Analytics Engineering Manager and Data Science Tech Lead are among 
-  the top 10 highest-paying job titles in the dataset
+- **Machine Learning & AI roles** command the highest average salaries across all job categories.
+- **Salary progression** shows strong growth by experience level, with Executive roles earning significantly more than Entry-level.
+- **Top Roles:** Analytics Engineering Manager and Data Science Tech Lead are among the top highest-paying job titles in the dataset.
 
 ## Visualizations
 
-### Python/Plotly (Google Colab)
-- Skills Network Graph — relationships between in-demand data skills
-- Animated Bar Race — job category growth from 2020-2023
-- Parallel Coordinates — multi-dimensional job market patterns
-- Salary Heatmap — average salary by category and experience level
-- Bubble Chart — salary vs demand by job category
-
-### Tableau Dashboard
+### Tableau Interactive Dashboard
 - KPI summary cards (average salary, total categories, highest salary)
 - Salary breakdown by category and experience level
 - Top 10 highest-paying job titles
 - Interactive Work Setting filter (Remote/Hybrid/In-person)
 
-![Tableau Dashboard](<img width="1608" height="847" alt="tableau_dashboard png" src="https://github.com/user-attachments/assets/44fc2f1f-8882-41f0-bd08-d572687af688" />
-)
+![Tableau Dashboard](./tableau_dashboard.png)
+
+---
+
+### Python / Plotly Visualizations (Google Colab)
+
+#### 1. Skills Network Graph
+*Relationships between in-demand data skills*
+![Skills Network](./chart1.png)
+
+#### 2. Animated Bar Race
+*Job category growth from 2020-2023*
+![Animated Bar Race](./chart2.png)
+
+#### 3. Parallel Coordinates
+*Multi-dimensional job market patterns*
+![Parallel Coordinates](./chart3.png)
+
+#### 4. Salary Heatmap
+*Average salary by category and experience level*
+![Salary Heatmap](./chart4.png)
+
+#### 5. Bubble Chart
+*Salary vs demand by job category*
+![Bubble Chart](./chart5.png)
+
+---
 
 ## Dataset
-Job postings dataset covering data science, ML, and analytics roles 
-(2020-2023), sourced from Kaggle.
+Job postings dataset covering data science, ML, and analytics roles (2020-2023), sourced from Kaggle.

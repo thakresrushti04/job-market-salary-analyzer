@@ -1,9 +1,13 @@
 # Job Market & Salary Analysis
 
-Data analysis project exploring salary trends across job categories, experience levels, and roles in the data field, using Python for exploratory analysis and Tableau for interactive visualization.
+Machine Learning & AI roles command the highest average salary 
+($178K); Data Science & Research dominates job volume with 3,014 
+postings. This project analyzes 9,355 data field job postings 
+using Python and Tableau to uncover salary and demand patterns.
 
 ## Tools Used
-- Python (Pandas, SQLite, Plotly, NetworkX)
+- Python (Pandas, NumPy, Plotly, NetworkX)
+- SQL (SQLite — data exploration & aggregation)
 - Tableau Public
 - Google Colab
 
@@ -52,4 +56,7 @@ Data analysis project exploring salary trends across job categories, experience 
 ---
 
 ## Dataset
-Job postings dataset covering data science, ML, and analytics roles (2020-2023), sourced from Kaggle.
+- Source: Kaggle — Jobs and Salaries in Data Science (Hummaam Qaasim)
+- Size: 9,355 records | 12 columns | 2020–2023
+- Fields: Job title, category, salary (USD), experience level, 
+  company size, work setting, location

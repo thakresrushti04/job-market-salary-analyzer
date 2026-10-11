@@ -1,9 +1,6 @@
 # Job Market & Salary Analysis
 
-Machine Learning & AI roles command the highest average salary 
-($178K); Data Science & Research dominates job volume with 3,014 
-postings. This project analyzes 9,355 data field job postings 
-using Python and Tableau to uncover salary and demand patterns.
+**Main finding:** Machine Learning and AI roles have the highest average salary of the 10 job categories, against an overall average of $150,299. Salary rises steadily with seniority, from entry-level to executive.
 
 ## Tools Used
 - Python (Pandas, NumPy, Plotly, NetworkX)

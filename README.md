@@ -1,6 +1,6 @@
-# Job Market & Salary Analysis
+# Job Market & Skill-Gap Analyzer
 
-**Main finding:** Machine Learning and AI roles have the highest average salary of the 10 job categories, against an overall average of $150,299. Salary rises steadily with seniority, from entry-level to executive.
+**Main finding:** Machine Learning & AI roles command the highest average salary of the 10 job categories, against an overall average of $150,299. Salary rises steadily with seniority, from entry-level to executive.
 
 ## Tools Used
 - Python (Pandas, NumPy, Plotly, NetworkX)
